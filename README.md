@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alzbeta Mozisova.
 - 👀 I’m interested in programming (web apps, websites).
-- 🌱 I’m currently learning PHP (frameworks, API integration).
+- 🌱 I’ve been learning PHP, SQL, JavaScript, HTML, CSS for the past couple of months. Currently I'm learning PHP frameworks and API integration.
 - 💞️ I’m looking for an entry job as a PHP developer.
 - 📫 How to reach me - if you want to get in touch, you can reach me on LinkedIn: https://www.linkedin.com/in/mozisa/
