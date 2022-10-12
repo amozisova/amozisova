@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alzbeta Mozisova.
-- 👀 I’m interested in programming (web apps, websites).
-- 🌱 I’ve been learning PHP, SQL, JavaScript, HTML, CSS for the past couple of months. Currently I'm learning PHP frameworks and API.
-- 💞️ I’m looking for an entry job as a PHP developer.
+- 👀 I’m interested in programming (web apps, websites). I'm a self-taught developer. 
+- 🌱 I started my journey in January 2022. I’ve been learning PHP, SQL, JavaScript, HTML, CSS for the past couple of months. Currently I'm learning PHP frameworks and API.
+- 💞️ In October 2022 I started working as a PHP developer.
 - 📫 How to reach me - if you want to get in touch, you can reach me on LinkedIn: https://www.linkedin.com/in/mozisa/
