@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Alzbeta Mozisova.
-- 👀 I’m interested in programming (web apps, websites). I'm a self-taught developer. 
-- 🌱 I started my journey in January 2022. I’ve been learning PHP, SQL, JavaScript, HTML, CSS for the past couple of months. Currently I'm learning PHP frameworks and API.
-- 💞️ In October 2022 I started working as a PHP developer.
-- 📫 How to reach me - if you want to get in touch, you can reach me on LinkedIn: https://www.linkedin.com/in/mozisa/
+- :wave: Hi, I’m Alzbeta Mozisova.
+- :computer: I've been working as a PHP developer since October 2022.
+- :seedling: I started my IT journey in January 2022 as a self-taught developer. I took several online courses focused on web development and in June 2022 I completed a retraining course for the position of "web application programmer in PHP".
+- :notebook_with_decorative_cover: I’ve been learning PHP, SQL, JavaScript, HTML, CSS, Nette framework, Docker and other technologies. :books: Currently I'm learning PHP framework Symfony and API.
+- :incoming_envelope: How to reach me - if you want to get in touch, you can reach me on LinkedIn: https://www.linkedin.com/in/mozisa/
